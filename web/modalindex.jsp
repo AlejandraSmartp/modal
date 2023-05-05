@@ -16,6 +16,7 @@
             <input type="file" id="btn_enviar" class="subir"></input>  
         </form> 
         <button type="submit" class="btnopbus2" onclick="  EnviarMensajeMesaAyuda();" id="mda_boton_enviar"  >Enviar</button>
+        <button type="submit" class="btnopbus2" onclick="  EnviarMensajeMesaAyuda();" id="mda_boton_enviar"  >Enviar</button>
         <script src="modal.js"></script>   
     </body>
 </html>
