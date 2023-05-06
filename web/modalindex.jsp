@@ -18,6 +18,7 @@
         <button type="submit" class="btnopbus2" onclick="  EnviarMensajeMesaAyuda();" id="mda_boton_enviar"  >Enviar</button>
         <button type="submit" class="btnopbus2" onclick="  EnviarMensajeMesaAyuda();" id="mda_boton_enviar"  >Enviar</button>
          <button type="submit" class="btnopbus2" onclick="  EnviarMensajeMesaAyuda();" id="mda_boton_enviar"  >Enviar</button>
+         este cambio se realiza en la rama segundo programador para confirmar que se agregue en la rama master
         <script src="modal.js"></script>   
     </body>
 </html>
